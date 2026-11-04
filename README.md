@@ -8,7 +8,7 @@
 
 | 프로젝트 | 내용 | 정리 상태 | 링크 |
 |---|---|---|---|
-| SportsCompass · 나침 | 공공데이터를 활용한 스포츠 지도자·기관 추천 서비스 | 소개 초안 · 개인 기여 및 실행 결과 보완 예정 | [프로젝트 소개](projects/sportscompass/README.md) · [소스 코드](https://github.com/ericsw2727/SportsCompass) |
+| SportsCompass · 나침 | 스포츠 커리어 플랫폼 · 공공데이터 정제 및 분석 | 1차 프로젝트 정리 | [프로젝트 소개](projects/sportscompass/README.md) · [소스 코드](https://github.com/ericsw2727/MLO_1st_project_SportsCompass) |
 | NODEVERSE | 관리자 대시보드 관련 준비 기록 | 담당 범위 확정 전 · 설계 준비 | [준비 기록](projects/nodeverse/README.md) |
 
 ## 기록 모음
