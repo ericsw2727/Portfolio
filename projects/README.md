@@ -1,10 +1,29 @@
-# 프로젝트
+<p><a href="../README.md">← Portfolio</a></p>
 
-각 프로젝트의 문제 정의, 개인 기여, 기술 선택과 결과를 정리합니다.
+# Selected projects
 
-| 프로젝트 | 상태 | 문서 |
-|---|---|---|
-| SportsCompass · 나침 | 1차 프로젝트 · 데이터 정제·분석 중심 정리 | [상세 보기](sportscompass/README.md) |
-| KREAM · AI Ready Data | 2차 프로젝트 · 표준화·정합성 검증·운영 분석 | [상세 보기](kream/README.md) |
+데이터를 서비스와 의사결정으로 연결한 두 가지 프로젝트.
 
-새 프로젝트는 [프로젝트 양식](../templates/project.md)을 복사해 `projects/프로젝트명/README.md`로 작성하고 이 목록과 [메인 페이지](../README.md)에 연결합니다.
+<br />
+
+<a href="sportscompass/README.md"><img src="../assets/readme/sportscompass.svg" width="100%" alt="01 · SportsCompass" /></a>
+
+### 01 &nbsp; 나침 · SportsCompass
+
+공공데이터 정제와 분석을 스포츠 커리어 서비스에 연결했습니다.
+
+`Python` `Django` `SQL` &nbsp; [프로젝트 보기 →](sportscompass/README.md)
+
+<br />
+
+<a href="kream/README.md"><img src="../assets/readme/kream.svg" width="100%" alt="02 · KREAM" /></a>
+
+### 02 &nbsp; KREAM · AI Ready Data
+
+레거시 검수 기록을 표준화하고 검증 가능한 운영 분석으로 확장했습니다.
+
+`MySQL` `Pandas` `Matplotlib` &nbsp; [프로젝트 보기 →](kream/README.md)
+
+---
+
+<sub>새 기록은 [프로젝트 양식](../templates/project.md)을 기준으로 추가합니다.</sub>

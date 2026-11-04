@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">A compass for sports careers.</title><desc id="desc">PROJECT 01  /  SPORTSCOMPASS. PUBLIC DATA, DJANGO, SERVICE</desc>
+<rect width="1200" height="320" rx="16" fill="#f4f3ef"/>
+<path d="M818 0h366a16 16 0 0 1 16 16v288a16 16 0 0 1-16 16H818Z" fill="#17282e"/>
+<circle cx="1120" cy="54" r="4" fill="#de9b58"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="48" y="49" fill="#657276" font-size="12" font-weight="600" letter-spacing="3">PROJECT 01  /  SPORTSCOMPASS</text>
+<text x="44" y="132" fill="#17282e" font-size="58" font-weight="700" letter-spacing="-2">A compass for</text>
+<text x="44" y="199" fill="#17282e" font-size="58" font-weight="700" letter-spacing="-2">sports careers.</text>
+<rect x="48" y="241" width="36" height="3" rx="1.5" fill="#de9b58"/>
+<text x="99" y="248" fill="#657276" font-size="14" letter-spacing="1">PUBLIC DATA   /   DJANGO   /   SERVICE</text>
+<text x="859" y="53" fill="#a7b6bb" font-size="11" letter-spacing="3">SELECTED WORK 01</text>
+<path d="M860 76H1152M860 135H1152M860 194H1152M860 253H1152" stroke="#34484e"/>
+<text x="861" y="113" fill="#de9b58" font-size="11">01</text><text x="897" y="114" fill="#f4f3ef" font-size="17" font-weight="500" letter-spacing="2">COLLECT</text><text x="861" y="172" fill="#de9b58" font-size="11">02</text><text x="897" y="173" fill="#f4f3ef" font-size="17" font-weight="500" letter-spacing="2">REFINE</text><text x="861" y="231" fill="#de9b58" font-size="11">03</text><text x="897" y="232" fill="#f4f3ef" font-size="17" font-weight="500" letter-spacing="2">CONNECT</text>
+</g></svg>
